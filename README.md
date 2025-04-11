@@ -4,8 +4,13 @@ Project:
 
 ## how to compile
 
--TODO:
+```bash
+javac Hello.java
+
+```
 
 ## how to run 
 
--TODO:
+```bash
+java Hello
+```
